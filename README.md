@@ -1,4 +1,4 @@
-# itc_data_exploration
+# ict_data_exploration
 
 This project explores key Information and Communication Technology (ICT) indicators for selected countries.
 
