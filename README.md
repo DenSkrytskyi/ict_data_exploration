@@ -2,7 +2,7 @@
 
 This project explores key Information and Communication Technology (ICT) indicators for selected countries.
 
-It contains one Jupyter notebook with code and visualizations. All generated charts are also saved in the figures folder for easy access.
+It contains one Jupyter notebook with code and visualizations. All generated charts are also saved in the [figures](figures) folder for easy access.
 
 ## Project Overview
 
