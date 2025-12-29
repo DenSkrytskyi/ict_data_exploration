@@ -22,19 +22,19 @@ The goal of this project is to provide an exploratory analysis of ICT indicators
 
 ## Key Indicators Analyzed
 
-Internet Usage – Percentage of individuals using the Internet.
+Internet Usage - Percentage of individuals using the Internet.
 
-Households with Internet Access – Percentage of households with access to the Internet at home.
+Households with Internet Access - Percentage of households with access to the Internet at home.
 
-Mobile and Mobile-Broadband Subscriptions – Number of subscriptions over time.
+Mobile and Mobile-Broadband Subscriptions - Number of subscriptions over time.
 
-ICT Skills: Communication & Collaboration – Proportion of individuals with basic ICT skills.
+ICT Skills: Communication & Collaboration - Proportion of individuals with basic ICT skills.
 
-Household Expenditure on ICT – Share of total household expenditure spent on ICT goods and services.
+Household Expenditure on ICT - Share of total household expenditure spent on ICT goods and services.
 
-Global Cybersecurity Index – Overall cybersecurity readiness score by country.
+Global Cybersecurity Index - Overall cybersecurity readiness score by country.
 
-Relationship between Internet Usage and Cybersecurity Readiness – Scatter plot comparing these two dimensions.
+Relationship between Internet Usage and Cybersecurity Readiness - Scatter plot comparing these two dimensions.
 
 ## How to Explore
 
@@ -48,19 +48,19 @@ This allows anyone, regardless of programming knowledge, to quickly understand t
 
 All data used in this project is stored in the data/ folder. The main CSV files include:
 
--ict_skills.csv – Data on individuals’ ICT skills
+-ict_skills.csv - Data on individuals’ ICT skills
 
--households_internet.csv – Household internet access
+-households_internet.csv - Household internet access
 
--mobile_subscriptions.csv – Mobile subscriptions
+-mobile_subscriptions.csv - Mobile subscriptions
 
--mobile_broadband.csv – Mobile broadband subscriptions
+-mobile_broadband.csv - Mobile broadband subscriptions
 
--internet_users.csv – Internet usage by individuals
+-internet_users.csv - Internet usage by individuals
 
--ict_expenditure.csv – Household expenditure on ICT
+-ict_expenditure.csv - Household expenditure on ICT
 
--cybersecurity_index.csv – Global Cybersecurity Index
+-cybersecurity_index.csv - Global Cybersecurity Index
 
 Data sources are official statistics from national and international organizations.
 
